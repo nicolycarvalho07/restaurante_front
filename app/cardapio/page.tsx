@@ -24,7 +24,7 @@ export default function CardapioPage() {
     ]
 
     return (
-        <div className="p-8">
+        <div className="p-8 bg-pink-300 min-h-screen">gi
             <h1 className="mb-6 text-3xl font-bold">Cardapio</h1>
 
             <div className="grid grid-cols-3 gap-6">
